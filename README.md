@@ -69,7 +69,7 @@ If this still has a few bits of vineapp.com lmk
 
 * Inspired on [TweetPony](https://github.com/Mezgrman/TweetPony)
 * Thanks to the Trellis devs for making Trellis possible so i can fork this and patch it!
-* Credits to [dav](https://github.com/davoclavo) and [Chris Chan,not the one your thinking of](https://github.com/cdchan)
+* Credits to [dav](https://github.com/davoclavo) and [Chris Chan,not the one your thinking of](https://github.com/cdchan) for the original vinepy repo  
 * Based on the Vine API documentation by [neuegram](https://github.com/neuegram) and [starlock](https://github.com/starlock/vino/wiki/API-Reference)
 * Used [mitmproxy](http://mitmproxy.org/) to get the missing API endpoints
 * Thanks to [Vine](https://vine.co) for making such an amazing app.
