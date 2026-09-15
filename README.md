@@ -1,7 +1,7 @@
 vinepy
 ======
 
-*Python wrapper for the [Vine](https://vine.co) API*
+*Python wrapper for the [Vine (Trellis)](https://trls.uk) API*
 
 [![](https://travis-ci.org/davoclavo/vinepy.svg?branch=master)](https://travis-ci.org/davoclavo/vinepy)
 [![](https://img.shields.io/coveralls/davoclavo/vinepy.svg)](https://coveralls.io/r/davoclavo/vinepy)
