@@ -1,8 +1,8 @@
 from .models import *
 
 PROTOCOL = 'https'
-API_HOST = 'api.vineapp.com'
-MEDIA_HOST = 'media.vineapp.com'
+API_HOST = 'apivin.cbone.uk'
+MEDIA_HOST = 'mediavin.cbone.uk'
 
 HEADERS = {
     'Host':              'api.vineapp.com',
